@@ -78,8 +78,6 @@ For each Video Content Category, the following outputs will be generated: <br>
 * history.p: Checkpoints
 * tokenzier.pkl: Tokernizer
 * nextword1.h5: Callbacks <br>
-* FOLDER??
-
 
 **Prediction Script:** Predictions.ipynb
 
